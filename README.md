@@ -1,1 +1,2 @@
-This is a practice crawler in golang.
+I finally installed Scrapy 
+So bye bye Golang.
